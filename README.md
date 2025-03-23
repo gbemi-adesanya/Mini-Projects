@@ -1,2 +1,2 @@
 # Mini-Projects
-contains other repos of mini-projects
+a directory of mini-projects
